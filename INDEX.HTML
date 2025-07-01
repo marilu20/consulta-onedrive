@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Consulta de Clientes</title>
+</head>
+<body>
+  <h2>Consulta de Clientes</h2>
+  <input type="text" id="buscar" placeholder="Buscar por DNI">
+  <button onclick="consultar()">Buscar</button>
+
+  <h3>Resultados:</h3>
+  <pre id="resultado"></pre>
+
+  <script>
+    const urlCSV = "https://raw.githubusercontent.com/marilu20/consulta-onedrive/main/datos.csv";
+
+    async function consultar() {
+      const DNIBuscado = document.getElementById('buscar').value.trim().toLowerCase();
+      const resultado = document.getElementById('resultado');
+
+      try {
+        const res = await fetch(urlCSV);
+        const texto = await res.text();
+        const filas = texto.trim().split("\n");
+        const encabezados = filas[0].split(";"); // separador ;
+        const datos = filas.slice(1);
+
+        const encontrados = datos
+          .map(fila => fila.split(";"))
+          .filter(campos => campos[0].toLowerCase().includes(DNIBuscado));
+
+        if (encontrados.length === 0) {
+          resultado.textContent = "No se encontraron resultados.";
+        } else {
+          resultado.textContent = encontrados.map(campos =>
+            encabezados.map((enc, i) => `${enc}: ${campos[i]}`).join("\n")
+          ).join("\n\n---\n\n");
+        }
+      } catch (err) {
+        resultado.textContent = "Error al leer los datos: " + err.message;
+      }
+    }
+  </script>
+</body>
+</html>

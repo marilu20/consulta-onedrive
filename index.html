@@ -2,12 +2,67 @@
 <html lang="es">
 <head>
   <meta charset="UTF-8">
-  <title>Consulta de Clientes</title>
+  <title>MOTOR: Consulta de Clientes</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      padding: 30px;
+      background-color: #f8f8f8;
+    }
+
+    h2 {
+      color: #333;
+    }
+
+    input[type="text"] {
+      padding: 10px;
+      font-size: 16px;
+      width: 250px;
+      margin-right: 10px;
+      border: 1px solid #ccc;
+      border-radius: 6px;
+    }
+
+    .boton {
+      background-color: #0078D4;
+      color: white;
+      padding: 10px 20px;
+      font-size: 16px;
+      border: none;
+      border-radius: 6px;
+      cursor: pointer;
+      transition: background-color 0.3s ease;
+    }
+
+    .boton:hover {
+      background-color: #005a9e;
+    }
+
+    #resultado {
+      margin-top: 20px;
+      white-space: pre-wrap;
+      background-color: #fff;
+      padding: 15px;
+      border: 1px solid #ddd;
+      border-radius: 6px;
+    }
+
+    .abrir-csv {
+      margin-top: 20px;
+    }
+  </style>
 </head>
 <body>
-  <h2>Consulta de Clientes</h2>
+  <h2>MOTOR: Consulta de Clientes</h2>
+
   <input type="text" id="buscar" placeholder="Buscar por DNI">
-  <button onclick="consultar()">Buscar</button>
+  <button class="boton" onclick="consultar()">🔍 Buscar</button>
+
+  <div class="abrir-csv">
+    <button class="boton" onclick="window.open('https://raw.githubusercontent.com/marilu20/consulta-onedrive/main/datos.csv', '_blank')">
+      📄 Ver Base de Datos
+    </button>
+  </div>
 
   <h3>Resultados:</h3>
   <pre id="resultado"></pre>

@@ -35199,6 +35199,253 @@ ASODNI;FECHA;FECHA_HORA;MOTIVO1;MOTIVO2;MOTIVO3;MOTIVO4;MOTIVO5;RN
 02612198;02/07/2025;02/07/2025 16:55:39;;;Comportamiento de pago externo (castigos);;;1,00
 02612198;03/07/2025;03/07/2025 09:22:04;;Comportamiento de pago externo (castigos);;;;1,00
 02612198;04/07/2025;04/07/2025 08:23:42;;Comportamiento de pago externo (castigos);;;;1,00
+10537007;01/08/2025;01/08/2025 11:39:43;;;;;;1,00
+10638607;01/08/2025;01/08/2025 10:17:59;;;Docente en base negativa;;;1,00
+10688248;01/08/2025;01/08/2025 10:37:49;;;;;;1,00
+10749814;01/08/2025;01/08/2025 11:32:23;;;;;Número de cuotas pagadas del crédito actual;1,00
+10881145;01/08/2025;01/08/2025 09:10:54;;;Comportamiento de pago externo (castigos);;;1,00
+15355146;01/08/2025;01/08/2025 12:01:49;;;;;;1,00
+15728369;01/08/2025;01/08/2025 10:33:41;;Rechazo por nota de abono;;;;1,00
+16688442;01/08/2025;01/08/2025 10:31:29;La oferta aproximada es menor al monto de compra de deuda;;;;;1,00
+16706153;01/08/2025;01/08/2025 11:07:44;Comportamiento de pago externo (castigos);;;;;1,00
+16708621;01/08/2025;01/08/2025 11:43:40;Comportamiento de pago interno (atrasos);;;;;1,00
+16736066;01/08/2025;01/08/2025 10:05:01;Comportamiento de pago externo;;;;;1,00
+16767292;01/08/2025;01/08/2025 11:42:43;;;;;;1,00
+16792858;01/08/2025;01/08/2025 10:18:31;Comportamiento de pago externo (castigos);;;;;1,00
+17405501;01/08/2025;01/08/2025 10:40:22;;;;Comportamiento de pago externo (castigos);;1,00
+17451951;01/08/2025;01/08/2025 09:32:54;Capacidad de pago MEM;;;;;1,00
+17535780;01/08/2025;01/08/2025 09:35:47;Rechazo por nota de abono;;;;;1,00
+17619566;01/08/2025;01/08/2025 11:58:01;Comportamiento de pago externo (castigos);;;;;1,00
+17918908;01/08/2025;01/08/2025 11:18:05;Rechazo por nota de abono;;;;;1,00
+17946433;01/08/2025;01/08/2025 11:58:00;Capacidad de pago MEM;;;;;1,00
+18011981;01/08/2025;01/08/2025 11:02:54;Capacidad de pago MEM;;;;;1,00
+18034723;01/08/2025;01/08/2025 10:06:24;Comportamiento de pago externo (castigos);;;;;1,00
+18128302;01/08/2025;01/08/2025 11:02:40;Comportamiento de pago externo (refinanciados);Comportamiento de pago externo;;;;1,00
+18213637;01/08/2025;01/08/2025 11:24:22;Rechazo por nota de abono;;;;;1,00
+18836166;01/08/2025;01/08/2025 11:18:32;Comportamiento de pago externo (castigos);;;;;1,00
+18837251;01/08/2025;01/08/2025 10:11:40;;Comportamiento de pago externo (castigos);;;;1,00
+18896746;01/08/2025;01/08/2025 09:50:23;Comportamiento de pago externo (castigos);;;;;1,00
+19021458;01/08/2025;01/08/2025 11:50:16;Rechazo por nota de abono;;;;;1,00
+19238037;01/08/2025;01/08/2025 10:13:39;;Capacidad de pago MEM;;;;1,00
+19337023;01/08/2025;01/08/2025 10:24:20;;;Comportamiento de pago externo (castigos);;;1,00
+19819077;01/08/2025;01/08/2025 10:38:23;Comportamiento de pago interno (atrasos);Comportamiento de pago externo (castigos);Comportamiento de pago externo;;;1,00
+19912963;01/08/2025;01/08/2025 11:04:13;Capacidad de pago MEM;;;;;1,00
+20035655;01/08/2025;01/08/2025 11:09:21;Capacidad de pago MEM;;;;;1,00
+20054952;01/08/2025;01/08/2025 09:14:26;Comportamiento de pago externo (castigos);;Comportamiento de pago externo;;;1,00
+20090159;01/08/2025;01/08/2025 10:43:10;Comportamiento de pago interno (atrasos);;;;;1,00
+20901987;01/08/2025;01/08/2025 10:27:09;;;Rechazo por nota de abono;;;1,00
+21148641;01/08/2025;01/08/2025 10:50:22;Capacidad de pago MEM;Comportamiento de pago externo;;;;1,00
+21432228;01/08/2025;01/08/2025 10:46:47;Comportamiento de pago externo (castigos);Clasificación SBS entidades;Capacidad de pago MEM;;;1,00
+21484968;01/08/2025;01/08/2025 11:15:16;;;;;;1,00
+21531470;01/08/2025;01/08/2025 09:14:21;Comportamiento de pago externo (castigos);Comportamiento de pago externo;;;;1,00
+21861320;01/08/2025;01/08/2025 11:22:26;Comportamiento de pago externo;;;;;1,00
+21867585;01/08/2025;01/08/2025 09:08:14;Comportamiento de pago externo (castigos);;;;;1,00
+21869368;01/08/2025;01/08/2025 10:02:51;Capacidad de pago MEM;;;;;1,00
+22187222;01/08/2025;01/08/2025 10:30:25;Edad límite contratado;;;;;1,00
+22293129;01/08/2025;01/08/2025 10:22:52;Comportamiento de pago interno (atrasos);Comportamiento de pago externo (refinanciados);;;;1,00
+22311047;01/08/2025;01/08/2025 11:17:43;;Capacidad de pago MEM;;;;1,00
+22447112;01/08/2025;01/08/2025 11:04:44;;;;;Comportamiento de pago externo (castigos);1,00
+22968542;01/08/2025;01/08/2025 09:33:38;Edad límite contratado;;;;;1,00
+23521946;01/08/2025;01/08/2025 11:47:38;Comportamiento de pago externo (castigos);Capacidad de pago MEM;Comportamiento de pago externo;;;1,00
+23936627;01/08/2025;01/08/2025 09:08:26;El monto a otorgar es menor al monto de compra de deuda, puede reducir el monto a comprar;La oferta aproximada es menor al monto de compra de deuda;;;;1,00
+23943840;01/08/2025;01/08/2025 12:05:00;El monto a otorgar es menor al monto de compra de deuda, puede reducir el monto a comprar;La oferta aproximada es menor al monto de compra de deuda;;;;1,00
+25484022;01/08/2025;01/08/2025 11:48:08;Comportamiento de pago externo (castigos);Comportamiento de pago externo;;;;1,00
+26688326;01/08/2025;01/08/2025 10:15:05;Comportamiento de pago externo (castigos);Comportamiento de pago externo (refinanciados);Comportamiento de pago externo;;;1,00
+26717497;01/08/2025;01/08/2025 10:50:08;Comportamiento de pago externo (castigos);;;;;1,00
+27049627;01/08/2025;01/08/2025 09:44:06;Rechazo por nota de abono;;;;;1,00
+27143867;01/08/2025;01/08/2025 10:23:44;Rechazo por nota de abono;;;;;1,00
+27295561;01/08/2025;01/08/2025 12:03:13;;Comportamiento de pago externo;;;;1,00
+27400804;01/08/2025;01/08/2025 10:06:41;;Comportamiento de pago externo (castigos);;;;1,00
+27429639;01/08/2025;01/08/2025 10:51:18;Capacidad de pago MEM;;;;;1,00
+27664669;01/08/2025;01/08/2025 10:46:58;Capacidad de pago MEM;;;;;1,00
+27737641;01/08/2025;01/08/2025 10:51:23;Capacidad de pago MEM;Comportamiento de pago externo;;;;1,00
+27901859;01/08/2025;01/08/2025 10:52:03;;;;Capacidad de pago MEM;;1,00
+27930105;01/08/2025;01/08/2025 09:40:44;Capacidad de pago MEM;;;;;1,00
+28246966;01/08/2025;01/08/2025 11:40:28;Capacidad de pago MEM;;;;;1,00
+28805569;01/08/2025;01/08/2025 11:24:57;;;;Rechazo por nota de abono;;1,00
+29102135;01/08/2025;01/08/2025 10:39:13;Capacidad de pago MEM;Comportamiento de pago externo;;;;1,00
+29116278;01/08/2025;01/08/2025 10:26:56;Número de cuotas pagadas del crédito actual;;;;;1,00
+29361585;01/08/2025;01/08/2025 09:14:39;Comportamiento de pago externo (refinanciados);Capacidad de pago MEM;;;;1,00
+29558828;01/08/2025;01/08/2025 10:34:59;Docente tiene aplicación FSC;;;;;1,00
+29582326;01/08/2025;01/08/2025 11:26:59;;El monto a otorgar es menor al monto de compra de deuda, puede reducir el monto a comprar;La oferta aproximada es menor al monto de compra de deuda;;;1,00
+31820231;01/08/2025;01/08/2025 10:32:38;Comportamiento de pago interno (atrasos);;;;;1,00
+32110959;01/08/2025;01/08/2025 10:37:21;Comportamiento de pago externo (castigos);;;;;1,00
+32541195;01/08/2025;01/08/2025 11:50:09;;;;;;1,00
+32603978;01/08/2025;01/08/2025 11:01:25;;Comportamiento de pago externo (castigos);;;;1,00
+32875271;01/08/2025;01/08/2025 09:35:21;;;;;;1,00
+32888209;01/08/2025;01/08/2025 11:55:46;;;;;Comportamiento de pago externo (castigos);1,00
+32916306;01/08/2025;01/08/2025 11:48:30;Comportamiento de pago externo (castigos);;;;;1,00
+32937023;01/08/2025;01/08/2025 11:06:37;Comportamiento de pago interno (atrasos);Comportamiento de pago externo (castigos);;;;1,00
+32945618;01/08/2025;01/08/2025 11:48:22;Comportamiento de pago interno (atrasos);Comportamiento de pago externo;;;;1,00
+32946178;01/08/2025;01/08/2025 11:00:58;Clasificación SBS entidades;;;;;1,00
+32956821;01/08/2025;01/08/2025 09:55:39;Comportamiento de pago externo (castigos);;;;;1,00
+33669091;01/08/2025;01/08/2025 11:40:56;Capacidad de pago MEM;Comportamiento de pago externo;;;;1,00
+33734415;01/08/2025;01/08/2025 10:20:44;Capacidad de pago MEM;;;;;1,00
+40069030;01/08/2025;01/08/2025 09:56:57;Comportamiento de pago externo (castigos);;;;;1,00
+40104596;01/08/2025;01/08/2025 11:26:52;Comportamiento de pago externo (castigos);;;;;1,00
+40115589;01/08/2025;01/08/2025 09:23:09;;;;;;1,00
+40170269;01/08/2025;01/08/2025 10:16:50;Comportamiento de pago externo (castigos);;;;;1,00
+40222665;01/08/2025;01/08/2025 10:13:49;Comportamiento de pago externo;;;;;1,00
+40262105;01/08/2025;01/08/2025 09:59:31;;Comportamiento de pago externo (castigos);;;;1,00
+40340428;01/08/2025;01/08/2025 10:07:21;Comportamiento de pago externo (castigos);;;;;1,00
+40344289;01/08/2025;01/08/2025 11:38:01;Comportamiento de pago interno (atrasos);;;;;1,00
+40389738;01/08/2025;01/08/2025 11:10:21;;;Clasificación SBS entidades;;;1,00
+40411843;01/08/2025;01/08/2025 09:08:36;Clasificación SBS entidades;;;;;1,00
+40571325;01/08/2025;01/08/2025 10:03:35;Comportamiento de pago externo (castigos);;;;;1,00
+40582473;01/08/2025;01/08/2025 11:54:52;Capacidad de pago MEM;;;;;1,00
+40599311;01/08/2025;01/08/2025 10:33:51;Capacidad de pago MEM;Comportamiento de pago externo;;;;1,00
+40669519;01/08/2025;01/08/2025 10:28:09;Comportamiento de pago externo (castigos);;;;;1,00
+40683735;01/08/2025;01/08/2025 09:07:55;Capacidad de pago MEM;;;;;1,00
+40700481;01/08/2025;01/08/2025 10:56:27;Comportamiento de pago interno (atrasos);;;;;1,00
+40773012;01/08/2025;01/08/2025 11:30:56;;;Comportamiento de pago interno (atrasos);;;1,00
+40777245;01/08/2025;01/08/2025 10:56:39;Comportamiento de pago interno (atrasos);;;;;1,00
+40796636;01/08/2025;01/08/2025 10:17:45;;Comportamiento de pago externo (castigos);;;;1,00
+40806697;01/08/2025;01/08/2025 11:43:57;Comportamiento de pago externo (castigos);;;;;1,00
+40825521;01/08/2025;01/08/2025 09:05:20;;;Comportamiento de pago externo (castigos);;;1,00
+40886463;01/08/2025;01/08/2025 10:30:48;;;;Número de cuotas pagadas del crédito actual;;1,00
+40916787;01/08/2025;01/08/2025 10:32:50;;Comportamiento de pago externo (castigos);;;;1,00
+40937158;01/08/2025;01/08/2025 10:25:17;;;Comportamiento de pago externo (castigos);;;1,00
+40991751;01/08/2025;01/08/2025 10:24:13;Clasificación SBS entidades;;;;;1,00
+41093662;01/08/2025;01/08/2025 11:49:09;La oferta aproximada es menor al monto de compra de deuda;;;;;1,00
+41150599;01/08/2025;01/08/2025 10:04:38;Comportamiento de pago externo (castigos);;;;;1,00
+41171675;01/08/2025;01/08/2025 11:55:27;Comportamiento de pago externo (castigos);;;;;1,00
+41207353;01/08/2025;01/08/2025 11:59:18;;Rechazo por nota de abono;;;;1,00
+41232119;01/08/2025;01/08/2025 11:54:43;Comportamiento de pago externo (castigos);;;;;1,00
+41232125;01/08/2025;01/08/2025 10:19:30;Comportamiento de pago externo (castigos);Comportamiento de pago externo;;;;1,00
+41274647;01/08/2025;01/08/2025 11:50:41;Comportamiento de pago externo;;;;;1,00
+41317366;01/08/2025;01/08/2025 09:18:10;Comportamiento de pago externo;;;;;1,00
+41427985;01/08/2025;01/08/2025 11:46:21;;;Comportamiento de pago externo;;;1,00
+41464427;01/08/2025;01/08/2025 11:15:39;;Comportamiento de pago interno (atrasos);Comportamiento de pago externo (castigos);;;1,00
+41552274;01/08/2025;01/08/2025 09:59:37;;;Comportamiento de pago externo (castigos);Capacidad de pago MEM;;1,00
+41610324;01/08/2025;01/08/2025 09:58:06;Capacidad de pago MEM;;;;;1,00
+41695240;01/08/2025;01/08/2025 10:54:21;Comportamiento de pago externo (refinanciados);;;;;1,00
+41838997;01/08/2025;01/08/2025 11:52:38;;;;;;1,00
+41850610;01/08/2025;01/08/2025 11:42:08;Comportamiento de pago externo (castigos);Comportamiento de pago externo;;;;1,00
+41869565;01/08/2025;01/08/2025 11:22:46;;;Comportamiento de pago externo (castigos);;;1,00
+41879238;01/08/2025;01/08/2025 11:31:37;Comportamiento de pago externo (castigos);;;;;1,00
+41888967;01/08/2025;01/08/2025 09:21:17;Clasificación SBS entidades;;;;;1,00
+41902210;01/08/2025;01/08/2025 11:59:22;Comportamiento de pago interno (atrasos);Comportamiento de pago externo (castigos);Comportamiento de pago externo (refinanciados);Capacidad de pago MEM;Comportamiento de pago externo;1,00
+41919950;01/08/2025;01/08/2025 11:13:21;;;Comportamiento de pago externo;;;1,00
+41935505;01/08/2025;01/08/2025 10:43:03;Comportamiento de pago externo;;;;;1,00
+42020252;01/08/2025;01/08/2025 09:54:04;Comportamiento de pago externo (castigos);;;;;1,00
+42033985;01/08/2025;01/08/2025 09:09:19;Comportamiento de pago externo (castigos);Comportamiento de pago externo;;;;1,00
+42046588;01/08/2025;01/08/2025 11:06:37;;;;Número de cuotas pagadas del crédito actual;;1,00
+42091463;01/08/2025;01/08/2025 10:12:54;;;;Comportamiento de pago externo (castigos);;1,00
+42165015;01/08/2025;01/08/2025 11:04:15;;;Capacidad de pago MEM;;;1,00
+42178082;01/08/2025;01/08/2025 11:42:16;;Comportamiento de pago interno (atrasos);;;;1,00
+42181686;01/08/2025;01/08/2025 09:57:44;;;Capacidad de pago MEM;;;1,00
+42186231;01/08/2025;01/08/2025 11:48:07;;;;;;1,00
+42204622;01/08/2025;01/08/2025 11:43:38;;;Comportamiento de pago externo (castigos);;;1,00
+42237696;01/08/2025;01/08/2025 11:22:11;Capacidad de pago MEM;;;;;1,00
+42264625;01/08/2025;01/08/2025 09:11:24;Comportamiento de pago interno (atrasos);Comportamiento de pago externo (castigos);Comportamiento de pago externo;;;1,00
+42297571;01/08/2025;01/08/2025 09:14:46;Comportamiento de pago externo (castigos);;;;;1,00
+42301711;01/08/2025;01/08/2025 10:22:01;;;Capacidad de pago MEM;;;1,00
+42343425;01/08/2025;01/08/2025 10:02:40;;Comportamiento de pago externo (castigos);;Comportamiento de pago externo;;1,00
+42436081;01/08/2025;01/08/2025 10:43:30;;;;Número de cuotas pagadas del crédito actual;;1,00
+42447987;01/08/2025;01/08/2025 10:18:10;;;Comportamiento de pago externo (castigos);;;1,00
+42460573;01/08/2025;01/08/2025 09:10:13;;;;;;1,00
+42521108;01/08/2025;01/08/2025 10:49:51;Comportamiento de pago externo (castigos);;;;;1,00
+42542502;01/08/2025;01/08/2025 09:11:55;Comportamiento de pago externo (castigos);;;;;1,00
+42577311;01/08/2025;01/08/2025 09:21:41;;Comportamiento de pago externo;;;;1,00
+42582510;01/08/2025;01/08/2025 10:27:25;;;;Rechazo por nota de abono;;1,00
+42597422;01/08/2025;01/08/2025 12:01:22;;;;Rechazo por nota de abono;;1,00
+42624807;01/08/2025;01/08/2025 09:20:51;;;;;;1,00
+42641144;01/08/2025;01/08/2025 12:00:26;Comportamiento de pago externo (castigos);;;;;1,00
+42699416;01/08/2025;01/08/2025 10:19:40;Docente tiene aplicación FSC;;;;;1,00
+42701454;01/08/2025;01/08/2025 10:23:45;Clasificación SBS entidades;;;;;1,00
+42772007;01/08/2025;01/08/2025 09:57:24;;;Comportamiento de pago externo (castigos);;;1,00
+42826407;01/08/2025;01/08/2025 10:39:24;;Comportamiento de pago externo (refinanciados);;;;1,00
+42892835;01/08/2025;01/08/2025 10:55:41;Capacidad de pago MEM;Comportamiento de pago externo;;;;1,00
+42908132;01/08/2025;01/08/2025 11:46:44;;;;Capacidad de pago MEM;;1,00
+42958803;01/08/2025;01/08/2025 10:10:36;Comportamiento de pago externo (castigos);;;;;1,00
+42983666;01/08/2025;01/08/2025 11:58:41;;El monto a otorgar es menor al monto de compra de deuda, puede reducir el monto a comprar;La oferta aproximada es menor al monto de compra de deuda;;;1,00
+42991288;01/08/2025;01/08/2025 10:55:01;;Capacidad de pago MEM;;;;1,00
+42997551;01/08/2025;01/08/2025 11:37:10;Comportamiento de pago externo (castigos);;;;;1,00
+43029670;01/08/2025;01/08/2025 10:07:28;Rechazo por nota de abono;;;;;1,00
+43043865;01/08/2025;01/08/2025 10:21:14;Comportamiento de pago interno (atrasos);;;;;1,00
+43078251;01/08/2025;01/08/2025 11:25:03;Capacidad de pago MEM;;;;;1,00
+43102326;01/08/2025;01/08/2025 11:59:16;Rechazo por nota de abono;;;;;1,00
+43121922;01/08/2025;01/08/2025 09:17:11;Rechazo por nota de abono;;;;;1,00
+43143878;01/08/2025;01/08/2025 11:40:23;;;;;No se identifica el código de producto ingresado;1,00
+43302399;01/08/2025;01/08/2025 11:35:04;;Capacidad de pago MEM;;;Comportamiento de pago externo;1,00
+43330155;01/08/2025;01/08/2025 10:55:36;Capacidad de pago MEM;;;;;1,00
+43350883;01/08/2025;01/08/2025 09:44:01;;;;;Capacidad de pago MEM;1,00
+43364118;01/08/2025;01/08/2025 11:20:43;;;;;;1,00
+43365541;01/08/2025;01/08/2025 09:17:30;;Comportamiento de pago externo;;;;1,00
+43369546;01/08/2025;01/08/2025 10:12:42;La oferta aproximada es menor al monto de compra de deuda;;;;;1,00
+43409019;01/08/2025;01/08/2025 10:34:39;;;;;Rechazo por nota de abono;1,00
+43439345;01/08/2025;01/08/2025 10:10:53;Docente en base negativa;Comportamiento de pago externo (castigos);;;;1,00
+43454332;01/08/2025;01/08/2025 09:40:11;Comportamiento de pago externo (castigos);Capacidad de pago MEM;Comportamiento de pago externo;;;1,00
+43474877;01/08/2025;01/08/2025 11:34:40;;;Capacidad de pago MEM;;;1,00
+43590801;01/08/2025;01/08/2025 11:50:05;Número de cuotas pagadas del crédito actual;;;;;1,00
+43913386;01/08/2025;01/08/2025 10:24:56;;;Rechazo por nota de abono;;;1,00
+43991811;01/08/2025;01/08/2025 11:49:42;;;Capacidad de pago MEM;;;1,00
+44055165;01/08/2025;01/08/2025 11:39:19;Comportamiento de pago externo (castigos);;;;;1,00
+44092668;01/08/2025;01/08/2025 10:30:38;Comportamiento de pago externo (castigos);;;;;1,00
+44262428;01/08/2025;01/08/2025 09:16:34;;;;Rechazo por nota de abono;;1,00
+44388093;01/08/2025;01/08/2025 10:17:16;Comportamiento de pago externo (castigos);;;;;1,00
+44462294;01/08/2025;01/08/2025 10:20:56;Comportamiento de pago externo (castigos);Comportamiento de pago externo;;;;1,00
+44515574;01/08/2025;01/08/2025 10:22:49;Comportamiento de pago externo (castigos);;;;;1,00
+44524957;01/08/2025;01/08/2025 10:26:53;Rechazo por nota de abono;;;;;1,00
+44592501;01/08/2025;01/08/2025 10:05:06;Comportamiento de pago externo (castigos);Comportamiento de pago externo;;;;1,00
+44593054;01/08/2025;01/08/2025 10:08:44;Comportamiento de pago externo (castigos);;;;;1,00
+44651545;01/08/2025;01/08/2025 10:57:54;;Comportamiento de pago externo (castigos);Número de cuotas pagadas del crédito actual;;;1,00
+44761241;01/08/2025;01/08/2025 10:14:49;Comportamiento de pago externo;;;;;1,00
+44774459;01/08/2025;01/08/2025 10:43:11;Comportamiento de pago externo (castigos);;;;;1,00
+44791233;01/08/2025;01/08/2025 09:30:35;;;Comportamiento de pago externo (castigos);;;1,00
+44877041;01/08/2025;01/08/2025 11:10:03;;;;Comportamiento de pago externo (castigos);;1,00
+45095617;01/08/2025;01/08/2025 11:46:09;Rechazo por nota de abono;;;;;1,00
+45385304;01/08/2025;01/08/2025 11:36:45;Comportamiento de pago interno (atrasos);;;;;1,00
+45410376;01/08/2025;01/08/2025 10:33:18;;Número de cuotas pagadas del crédito actual;;;;1,00
+45456027;01/08/2025;01/08/2025 10:06:26;Capacidad de pago MEM;Comportamiento de pago externo;;;;1,00
+45534576;01/08/2025;01/08/2025 11:21:09;;;;Rechazo por nota de abono;;1,00
+45560050;01/08/2025;01/08/2025 10:17:06;Comportamiento de pago externo (castigos);;;Clasificación SBS entidades;;1,00
+45863114;01/08/2025;01/08/2025 10:37:55;Comportamiento de pago externo;;;;;1,00
+45951855;01/08/2025;01/08/2025 12:03:01;;;Rechazo por nota de abono;;;1,00
+46084573;01/08/2025;01/08/2025 11:08:25;Comportamiento de pago interno (atrasos);Comportamiento de pago externo;;;;1,00
+46096565;01/08/2025;01/08/2025 09:11:51;Comportamiento de pago externo (castigos);Comportamiento de pago externo;;;;1,00
+46243472;01/08/2025;01/08/2025 09:11:05;;;Comportamiento de pago externo (castigos);;;1,00
+46314629;01/08/2025;01/08/2025 11:23:47;;;;Comportamiento de pago externo (castigos);;1,00
+46432907;01/08/2025;01/08/2025 11:32:28;;;;;Rechazo por nota de abono;1,00
+46573367;01/08/2025;01/08/2025 09:42:36;;;Comportamiento de pago externo;;;1,00
+46675922;01/08/2025;01/08/2025 11:10:01;;;Comportamiento de pago externo (castigos);;;1,00
+46777730;01/08/2025;01/08/2025 10:21:38;Capacidad de pago MEM;;;;;1,00
+47109918;01/08/2025;01/08/2025 09:32:49;Comportamiento de pago externo;;;;;1,00
+47400999;01/08/2025;01/08/2025 11:21:17;;;;Rechazo por nota de abono;;1,00
+47507273;01/08/2025;01/08/2025 10:38:10;;Rechazo por nota de abono;;;;1,00
+47646408;01/08/2025;01/08/2025 11:11:40;Docente en base negativa;;;;;1,00
+47681502;01/08/2025;01/08/2025 09:11:20;Comportamiento de pago externo (castigos);;;;;1,00
+47883424;01/08/2025;01/08/2025 11:46:57;;;;;;1,00
+48028704;01/08/2025;01/08/2025 10:18:48;Comportamiento de pago externo (castigos);;;;;1,00
+48126371;01/08/2025;01/08/2025 10:17:27;Comportamiento de pago externo (castigos);Comportamiento de pago externo;;;;1,00
+48242769;01/08/2025;01/08/2025 09:14:16;;;;;Número de cuotas pagadas del crédito actual;1,00
+48347828;01/08/2025;01/08/2025 11:52:16;;Comportamiento de pago externo (castigos);;;;1,00
+48415098;01/08/2025;01/08/2025 11:40:08;;;;;;1,00
+48830164;01/08/2025;01/08/2025 11:31:23;Comportamiento de pago externo;;;;;1,00
+62176031;01/08/2025;01/08/2025 11:57:47;;;Comportamiento de pago externo;;;1,00
+70001409;01/08/2025;01/08/2025 09:29:48;Rechazo por nota de abono;;;;;1,00
+70024899;01/08/2025;01/08/2025 09:43:56;;Comportamiento de pago externo (castigos);;;;1,00
+70240356;01/08/2025;01/08/2025 11:00:21;Comportamiento de pago interno (atrasos);Comportamiento de pago externo;;;;1,00
+70353364;01/08/2025;01/08/2025 10:00:45;Capacidad de pago MEM;Comportamiento de pago externo;;;;1,00
+70977952;01/08/2025;01/08/2025 09:38:48;Comportamiento de pago externo (castigos);;;;;1,00
+71278065;01/08/2025;01/08/2025 10:57:00;Comportamiento de pago externo;;;;;1,00
+71350695;01/08/2025;01/08/2025 10:42:21;Capacidad de pago MEM;;;;;1,00
+71767094;01/08/2025;01/08/2025 11:15:17;;Número de cuotas pagadas del crédito actual;;;;1,00
+72107732;01/08/2025;01/08/2025 10:35:01;;;Comportamiento de pago externo (castigos);;;1,00
+72376199;01/08/2025;01/08/2025 11:37:07;Docente tiene aplicación FSC;;;;;1,00
+73491072;01/08/2025;01/08/2025 11:28:32;;Comportamiento de pago externo;;;;1,00
+73750155;01/08/2025;01/08/2025 11:02:28;Rechazo por nota de abono;;;;;1,00
+74736362;01/08/2025;01/08/2025 10:08:45;Comportamiento de pago externo (castigos);Capacidad de pago MEM;Comportamiento de pago externo;;;1,00
+75062423;01/08/2025;01/08/2025 09:09:28;;Comportamiento de pago externo (castigos);;Comportamiento de pago externo (refinanciados);;1,00
+76770651;01/08/2025;01/08/2025 11:10:50;Comportamiento de pago externo;;;;;1,00
+76986858;01/08/2025;01/08/2025 11:35:15;Comportamiento de pago externo;;;;;1,00
+77067426;01/08/2025;01/08/2025 11:27:26;Comportamiento de pago externo;;;;;1,00
+80160413;01/08/2025;01/08/2025 11:47:20;Número de cuotas pagadas del crédito actual;;;;;1,00
+80175946;01/08/2025;01/08/2025 10:00:27;;;;;;1,00
+80219695;01/08/2025;01/08/2025 09:49:37;;No habilitado;;;;1,00
+80619730;01/08/2025;01/08/2025 09:53:23;Comportamiento de pago externo;;;;;1,00
+80619741;01/08/2025;01/08/2025 10:13:50;Comportamiento de pago externo;;;;;1,00
+80685035;01/08/2025;01/08/2025 09:56:09;Docente tiene aplicación FSC;;;;;1,00
 41624258;07/07/2025;07/07/2025 13:28:33;Clasificación SBS entidades;;;;;1,00
 41629139;31/07/2025;31/07/2025 08:34:55;;;;;;1,00
 41629782;03/07/2025;03/07/2025 12:03:32;Comportamiento de pago externo (castigos);Comportamiento de pago externo;;;;1,00
@@ -36151,6 +36398,15 @@ ASODNI;FECHA;FECHA_HORA;MOTIVO1;MOTIVO2;MOTIVO3;MOTIVO4;MOTIVO5;RN
 80506420;01/08/2025;01/08/2025 08:35:52;;Comportamiento de pago externo (castigos);;;;1,00
 80662738;31/07/2025;31/07/2025 16:58:44;Comportamiento de pago externo (castigos);;;;;1,00
 80817423;31/07/2025;31/07/2025 15:29:48;Comportamiento de pago interno (atrasos);Comportamiento de pago externo;;;;1,00
+00127596;01/08/2025;01/08/2025 09:37:03;Comportamiento de pago externo (castigos);;;;;1,00
+00158504;01/08/2025;01/08/2025 11:18:40;Rechazo por nota de abono;;;;;1,00
+00165513;01/08/2025;01/08/2025 11:28:45;Docente tiene aplicación FSC;Comportamiento de pago externo (castigos);;;;1,00
+00245868;01/08/2025;01/08/2025 10:51:43;Docente en base negativa;Docente tiene aplicación FSC;;;;1,00
+00249950;01/08/2025;01/08/2025 10:47:35;Comportamiento de pago externo (castigos);;;;;1,00
+00256538;01/08/2025;01/08/2025 10:52:31;;;;;;1,00
+00366150;01/08/2025;01/08/2025 10:09:12;;;Comportamiento de pago externo;;;1,00
+00515667;01/08/2025;01/08/2025 09:09:01;Número de cuotas pagadas del crédito actual;;;;;1,00
+00906420;01/08/2025;01/08/2025 10:32:48;;;;;;1,00
 46236375;04/07/2025;04/07/2025 13:28:01;Comportamiento de pago externo (castigos);;;;;1,00
 46243472;30/06/2025;30/06/2025 16:30:32;Comportamiento de pago externo (castigos);;;;;1,00
 46243472;02/07/2025;02/07/2025 15:15:28;;Comportamiento de pago externo (castigos);;;;1,00
@@ -36428,6 +36684,90 @@ ASODNI;FECHA;FECHA_HORA;MOTIVO1;MOTIVO2;MOTIVO3;MOTIVO4;MOTIVO5;RN
 61736180;03/07/2025;03/07/2025 13:46:13;;;;Comportamiento de pago externo;;1,00
 62453443;01/07/2025;01/07/2025 11:54:10;Comportamiento de pago externo;;;;;1,00
 62624251;31/07/2025;31/07/2025 10:04:00;Capacidad de pago MEM;Capacidad de pago MEM;Comportamiento de pago externo;Comportamiento de pago externo;Comportamiento de pago externo;1,00
+01005097;01/08/2025;01/08/2025 10:28:35;Comportamiento de pago externo (castigos);;;;;1,00
+01062556;01/08/2025;01/08/2025 10:14:06;Capacidad de pago MEM;;;;;1,00
+01092095;01/08/2025;01/08/2025 09:30:21;;;Comportamiento de pago externo (castigos);;;1,00
+01096047;01/08/2025;01/08/2025 11:14:37;Comportamiento de pago externo (castigos);;;;;1,00
+01109402;01/08/2025;01/08/2025 09:06:34;Comportamiento de pago externo (castigos);;;;;1,00
+01124423;01/08/2025;01/08/2025 11:05:43;Comportamiento de pago externo (castigos);;;;;1,00
+01131304;01/08/2025;01/08/2025 10:31:23;;;;;Comportamiento de pago externo (castigos);1,00
+01134817;01/08/2025;01/08/2025 10:23:05;Docente tiene aplicación FSC;;;;;1,00
+01136267;01/08/2025;01/08/2025 09:13:46;No habilitado;;;;;1,00
+01137033;01/08/2025;01/08/2025 11:39:05;No se identifica el código de producto ingresado;;;;;1,00
+01187949;01/08/2025;01/08/2025 11:54:50;Comportamiento de pago externo (castigos);Capacidad de pago MEM;Comportamiento de pago externo;;;1,00
+01307374;01/08/2025;01/08/2025 11:33:31;Comportamiento de pago externo (castigos);Comportamiento de pago externo;;;;1,00
+02036272;01/08/2025;01/08/2025 11:40:35;Capacidad de pago MEM;;;;;1,00
+02406446;01/08/2025;01/08/2025 10:42:51;;;;;;1,00
+02600751;01/08/2025;01/08/2025 11:40:36;Capacidad de pago MEM;Comportamiento de pago externo;;;;1,00
+02602528;01/08/2025;01/08/2025 11:47:03;;;;Comportamiento de pago externo (castigos);;1,00
+02723389;01/08/2025;01/08/2025 11:52:40;Capacidad de pago MEM;Comportamiento de pago externo;;;;1,00
+02801253;01/08/2025;01/08/2025 10:14:10;El monto a otorgar es menor al monto de compra de deuda, puede reducir el monto a comprar;La oferta aproximada es menor al monto de compra de deuda;;;;1,00
+02811795;01/08/2025;01/08/2025 11:18:36;Comportamiento de pago interno (atrasos);Comportamiento de pago externo (castigos);Comportamiento de pago externo;;;1,00
+02820189;01/08/2025;01/08/2025 10:52:43;El monto a otorgar es menor al monto de compra de deuda, puede reducir el monto a comprar;La oferta aproximada es menor al monto de compra de deuda;;;;1,00
+02833419;01/08/2025;01/08/2025 11:20:40;;;;Comportamiento de pago externo (castigos);;1,00
+02845955;01/08/2025;01/08/2025 09:25:10;Comportamiento de pago externo (castigos);;;;;1,00
+02852700;01/08/2025;01/08/2025 11:55:56;Comportamiento de pago interno (atrasos);Comportamiento de pago externo (castigos);;;;1,00
+02889389;01/08/2025;01/08/2025 11:15:14;;;;;Comportamiento de pago externo (castigos);1,00
+03080582;01/08/2025;01/08/2025 12:02:01;Comportamiento de pago externo (refinanciados);;;;;1,00
+03209126;01/08/2025;01/08/2025 09:48:34;Capacidad de pago MEM;;;;;1,00
+03571162;01/08/2025;01/08/2025 11:53:39;;Comportamiento de pago externo (castigos);;;;1,00
+03641462;01/08/2025;01/08/2025 10:29:04;Comportamiento de pago interno (atrasos);;;;;1,00
+03650037;01/08/2025;01/08/2025 11:21:54;Comportamiento de pago externo (castigos);Capacidad de pago MEM;Comportamiento de pago externo;;;1,00
+03658816;01/08/2025;01/08/2025 09:58:55;;;;Comportamiento de pago externo (castigos);;1,00
+03695014;01/08/2025;01/08/2025 11:55:44;;El monto a otorgar es menor al monto de compra de deuda, puede reducir el monto a comprar;La oferta aproximada es menor al monto de compra de deuda;;;1,00
+03879874;01/08/2025;01/08/2025 10:47:14;;;Comportamiento de pago externo (castigos);;;1,00
+04641674;01/08/2025;01/08/2025 10:09:55;;Comportamiento de pago externo;;;;1,00
+05240495;01/08/2025;01/08/2025 11:51:24;Comportamiento de pago externo;;;;;1,00
+05311035;01/08/2025;01/08/2025 11:07:36;Rechazo por nota de abono;;;;;1,00
+05313963;01/08/2025;01/08/2025 09:20:41;Comportamiento de pago interno (atrasos);Comportamiento de pago externo (castigos);Comportamiento de pago externo;;;1,00
+05319757;01/08/2025;01/08/2025 09:49:58;Comportamiento de pago externo (castigos);Comportamiento de pago externo (refinanciados);Comportamiento de pago externo;;;1,00
+05322759;01/08/2025;01/08/2025 11:28:16;Comportamiento de pago interno (atrasos);;;;;1,00
+05335950;01/08/2025;01/08/2025 11:40:53;Comportamiento de pago externo;;;;;1,00
+05338389;01/08/2025;01/08/2025 09:26:30;Comportamiento de pago externo (castigos);;;;;1,00
+05345057;01/08/2025;01/08/2025 10:54:31;Rechazo por nota de abono;;;;;1,00
+05352569;01/08/2025;01/08/2025 11:08:06;Comportamiento de pago externo (castigos);;;;;1,00
+05363313;01/08/2025;01/08/2025 10:19:47;Rechazo por nota de abono;;;;;1,00
+05376477;01/08/2025;01/08/2025 11:16:37;;;;;;1,00
+05410921;01/08/2025;01/08/2025 09:42:17;Comportamiento de pago externo (castigos);;;;;1,00
+05416177;01/08/2025;01/08/2025 10:57:51;;Comportamiento de pago externo (castigos);;;;1,00
+05845157;01/08/2025;01/08/2025 10:59:27;;Comportamiento de pago externo (castigos);;;;1,00
+05861636;01/08/2025;01/08/2025 10:18:03;Comportamiento de pago externo (castigos);;;;;1,00
+05866611;01/08/2025;01/08/2025 10:12:09;Comportamiento de pago externo;;;;;1,00
+05868813;01/08/2025;01/08/2025 11:54:11;Comportamiento de pago externo (castigos);;;;;1,00
+05920988;01/08/2025;01/08/2025 09:42:54;Comportamiento de pago externo (refinanciados);;;;;1,00
+06631788;01/08/2025;01/08/2025 11:23:10;El monto a otorgar es menor al monto de compra de deuda, puede reducir el monto a comprar;La oferta aproximada es menor al monto de compra de deuda;;;;1,00
+06993982;01/08/2025;01/08/2025 10:52:58;;Comportamiento de pago interno (atrasos);;;;1,00
+07005549;01/08/2025;01/08/2025 09:48:44;;;Comportamiento de pago externo;;;1,00
+07174172;01/08/2025;01/08/2025 11:32:51;;;;;;1,00
+07210652;01/08/2025;01/08/2025 12:00:05;Clasificación SBS entidades;;;;;1,00
+08122339;01/08/2025;01/08/2025 10:38:52;Edad límite docente DO básico;;;;;1,00
+08491343;01/08/2025;01/08/2025 09:24:50;Comportamiento de pago externo;;;;;1,00
+08604474;01/08/2025;01/08/2025 10:31:39;Comportamiento de pago externo (castigos);;;;;1,00
+08639658;01/08/2025;01/08/2025 11:47:59;Comportamiento de pago interno (atrasos);;;;;1,00
+08718100;01/08/2025;01/08/2025 10:08:32;;Rechazo por nota de abono;;;;1,00
+08791332;01/08/2025;01/08/2025 11:24:56;Comportamiento de pago externo (castigos);;;;;1,00
+09040298;01/08/2025;01/08/2025 12:04:42;;;;No habilitado;;1,00
+09243120;01/08/2025;01/08/2025 10:27:01;Comportamiento de pago interno (atrasos);;;;;1,00
+09249809;01/08/2025;01/08/2025 09:45:21;;Comportamiento de pago externo (castigos);;;;1,00
+09373667;01/08/2025;01/08/2025 11:27:54;El monto a otorgar es menor al monto de compra de deuda, puede reducir el monto a comprar;La oferta aproximada es menor al monto de compra de deuda;;;;1,00
+09391422;01/08/2025;01/08/2025 10:15:27;Comportamiento de pago interno (atrasos);Comportamiento de pago externo (castigos);Comportamiento de pago externo;;;1,00
+09414030;01/08/2025;01/08/2025 11:05:01;;;Comportamiento de pago interno (atrasos);;;1,00
+09529413;01/08/2025;01/08/2025 11:18:33;Comportamiento de pago externo (castigos);;;;;1,00
+09553488;01/08/2025;01/08/2025 10:32:44;Comportamiento de pago externo (castigos);;;;;1,00
+09562104;01/08/2025;01/08/2025 10:17:09;Rechazo por nota de abono;;;;;1,00
+09664748;01/08/2025;01/08/2025 11:16:57;;;;Rechazo por nota de abono;;1,00
+09673161;01/08/2025;01/08/2025 09:24:13;Rechazo por nota de abono;;;;;1,00
+09719299;01/08/2025;01/08/2025 11:20:00;Comportamiento de pago externo (castigos);;;;;1,00
+09809326;01/08/2025;01/08/2025 09:36:48;Rechazo por nota de abono;;;;;1,00
+09869409;01/08/2025;01/08/2025 11:24:46;Comportamiento de pago interno (atrasos);;;;;1,00
+09966656;01/08/2025;01/08/2025 11:20:10;Rechazo por nota de abono;;;;;1,00
+10071339;01/08/2025;01/08/2025 11:30:05;Comportamiento de pago externo (castigos);;;;;1,00
+10082421;01/08/2025;01/08/2025 11:52:20;Comportamiento de pago externo (castigos);;;;;1,00
+10093927;01/08/2025;01/08/2025 10:41:00;Número de cuotas pagadas del crédito actual;;;;;1,00
+10291381;01/08/2025;01/08/2025 11:31:15;;El monto a otorgar es menor al monto de compra de deuda, puede reducir el monto a comprar;La oferta aproximada es menor al monto de compra de deuda;;;1,00
+10436214;01/08/2025;01/08/2025 11:39:35;Rechazo por nota de abono;;;;;1,00
+10468127;01/08/2025;01/08/2025 11:10:14;Rechazo por nota de abono;;;;;1,00
+10485500;01/08/2025;01/08/2025 09:44:48;Comportamiento de pago interno (atrasos);;;;;1,00
 03596551;07/07/2025;07/07/2025 10:08:39;;;Comportamiento de pago externo (castigos);;;1,00
 03600750;30/06/2025;30/06/2025 15:19:49;Clasificación SBS entidades;;;;;1,00
 03610612;02/07/2025;02/07/2025 14:22:10;Capacidad de pago MEM;;;;;1,00
